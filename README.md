@@ -6,6 +6,11 @@ Our game is a hangman-esque game to help learn different languages one at a time
 
 Creators: Tanvi Namjoshi, Olivia Lee, Alexander Adrogue
 
+## Play Here: 
+https://cssi-final-project-v3.glitch.me
+
+## Files: 
+
 ### ← README.md
 
 That's this file, which explains the different components of the website
