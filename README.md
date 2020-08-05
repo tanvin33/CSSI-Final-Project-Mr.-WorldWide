@@ -1,4 +1,4 @@
-# Welcome Mr.WorldWide, The Snowman
+# Welcome to Mr.WorldWide, The Snowman
 
 ## A Language & Vocabulary Learning Game
 
@@ -41,6 +41,12 @@ This adds interactivity to the game using a p5 canvas (p5 library)
 ### ← assets
 
 Incudes `assets`, like images or music, that are used in this project!
+
+## Credits:
+Created by Tanvi Namjoshi, Olivia Lee, and Alexander Adrogue as part of Google CSSI 2020 
+
+Thank you to all of our mentors and advisors during CSSI
+
 
 ## Glitch
 
